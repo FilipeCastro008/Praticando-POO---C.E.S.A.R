@@ -4,11 +4,10 @@ import java.util.ArrayList;
 
 public class ItemPedido {
     private int quantidade;    
-    private ArrayList<Produto> produtos;
+    private ArrayList<Produto> produtos = new ArrayList<Produto>();
     
     public ItemPedido(int quantidade) {
         this.quantidade = quantidade;
-        this.produtos = new ArrayList<Produto>();
     }
     public int getQuantidade() {
         return quantidade;
