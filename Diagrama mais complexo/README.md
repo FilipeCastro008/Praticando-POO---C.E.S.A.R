@@ -1,18 +1,5 @@
-## Getting Started
+## Exercício - Agregação, composição, herança, classes abstratas, interface.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<p align="center">
+  <img width="1200" src="https://github.com/FilipeCastro008/Praticando-POO---C.E.S.A.R/blob/master/Diagrama%20mais%20complexo/imagens/Captura%20de%20tela%202022-05-23%20093324.png">
+  </p>
